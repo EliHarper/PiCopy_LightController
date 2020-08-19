@@ -7,3 +7,5 @@ rpi_ws281x_wrap.c
 _rpi_ws281x.py
 *.egg
 *.zip
+.env*
+
